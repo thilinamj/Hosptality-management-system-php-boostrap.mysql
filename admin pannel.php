@@ -40,7 +40,7 @@
 <label>Contact:</label>
 <input type="text" name="contact" class="form-control"><br>
 <label>Doctor Appointment:</label>
-<select class="form-control">
+<select class="form-control" name="docapp">
 <option value="Dr Sharma from 6pm to 8pm">Dr Sharma from 6pm to 8pm</option>
 <option value="Dr Sharma from 6pm to 8pm">Dr Sharma from 6pm to 8pm</option>
 </select><br>
