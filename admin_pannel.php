@@ -38,7 +38,7 @@
 <label>Email id:</label>
 <input type="text" name="email" class="form-control"><br>
 <label>Contact:</label>
-<input type="text" name="contact" class="form-control"><br>
+<input type="text" name="conatct" class="form-control"><br>
 <label>Doctor Appointment:</label>
 <select class="form-control" name="docapp">
 <option value="Dr Sharma from 6pm to 8pm">Dr Sharma from 6pm to 8pm</option>
