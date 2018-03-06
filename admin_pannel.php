@@ -11,7 +11,7 @@
 <div class="col-md-3">
 <div class="list-group">
 <a href="" class="list-group-item active">Patients</a>
-<a href="" class="list-group-item ">Patient Detailst</a>
+<a href="patient_details.php" class="list-group-item ">Patient Detailst</a>
 <a href="" class="list-group-item ">Add New Patient </a>
 <a href="" class="list-group-item ">Payment/Checkout</a>
 </div>
