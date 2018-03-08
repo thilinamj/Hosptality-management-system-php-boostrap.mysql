@@ -20,8 +20,8 @@
 <div class="col-md-8">
 <form class="form-group" action="func.php" method="post">
 <div class="row">
-<div class="col-md-10"><input type="text" name="search" class="form-control"></div>
-<div class="col-md-2"><input type="submit" name="patient_search" class="btn btn-light"></div>
+<div class="col-md-10"><input type="text" name="search" class="form-control" placeholder="enter contact"></div>
+<div class="col-md-2"><input type="submit" name="patient_search_submit" class="btn btn-light"></div>
 
 </div>
 
