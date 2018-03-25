@@ -10,4 +10,4 @@
 <hr>
 <b>clone this repository<b>
   <br>
-  git clone https://github.com/thilinamj/Hosptality-management-system-php-boostrap.mysql.git
+  *git clone https://github.com/thilinamj/Hosptality-management-system-php-boostrap.mysql.git
